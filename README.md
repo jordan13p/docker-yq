@@ -1,4 +1,4 @@
-# docker-kubectl
+# docker-yq
 
 yq version = 3.4.1
 
